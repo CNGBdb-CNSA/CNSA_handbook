@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'CNSA操作手册'
+project = 'CNSA 操作手册'
 copyright = '2021, CNSA'
 author = 'CNSA'
 
