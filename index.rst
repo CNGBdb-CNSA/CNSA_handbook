@@ -12,7 +12,7 @@ Welcome to the handbook for CNGB Sequence Archive(CNSA).
    :caption: Data Modules
    :maxdepth: 1
 
-   Project/project
+* :ref:`Project/project`
    Sample/sample
    Experiment&Run/experiment_run
 
